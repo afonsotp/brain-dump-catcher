@@ -1,0 +1,1 @@
+{ "name": "brain-dump-catcher", "version": "0.1.0", "description": "Catches long brain-dump prompts, asks clarifying questions, then rewrites them into your prompting framework." }

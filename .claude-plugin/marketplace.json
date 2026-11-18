@@ -1,0 +1,5 @@
+{
+  "name": "brain-dump-catcher",
+  "owner": { "name": "afonsotp" },
+  "plugins": [{ "name": "brain-dump-catcher", "source": "./" }]
+}
